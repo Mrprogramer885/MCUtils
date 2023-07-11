@@ -1,11 +1,24 @@
 1."What is the bug (white textures in mod or etc...)"
 2. Description of the bug (i see white textures instead of normal textures)
 3. Information:
-3.1 minecraft version (1.18.2)
+3.1 minecraft version and release (1.18.2) (stable, beta, alpha or pre-alpha)
 3.2 Forge Version (40.2.0)
 3.3 Mods which you are using with this mod (JourneyMap, JEI, Botania, Quark and etc...)
 3.4 Which OS you are using with which build version (Linux, ChromeOS, Windows 11/10/8.1/8/7, MacOS)
 3.5 MCUtils mod version and its type (1.0.5, 1.1.0) and (alpha, beta or stable release)
 4. If your minecraft client is crashing, Also include crash-("datetime").txt file.
+5. message to developer (OPTIONAL)
+
+
 
 That is all. Just click at "Sumbit new issue", and you are done :)
+
+example:
+White textures in the mod and render problems.
+The mod has White textures on all items but not on armor, i have also render problems.
+i am using minecraft 1.18.2 with forge version 40.2.0
+I am using this mod with JourneyMap, Optifine, Better F3, Quark, JEI, JER.
+I use windows 10
+i am using mod version 1.0.5 beta-release
+
+I hope you will fix it :)
