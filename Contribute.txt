@@ -2,6 +2,21 @@ How to contribute:
 If you have a suggestion for the mod (new item, function, biome, sound, armor, tool, ore and etc.) you can write it here.
 If you have decent coding skills (Java, Json, Markdown), you can also contribute directly to source code of the mod.
 
-contribute:
-go to "issues" TAB
-click "New issue"
+Create suggestion:
+Create New issue up above, then select labels and click "Suggestion".
+It would be best to write the following:
+1. Name of the suggestion (White dust, blue paper, etc...)
+2. What it will be (armor, item, tool, biome etc...)
+3. What it will do (This is a paper that needs less resources to craft)
+4. What the recipe will be: (2 sugar canes, 1 bamboo = 4 blue paper)
+5. click: Submit new issue.
+
+Congrats, you have now suggested me new thing. if the suggestion gets accepted, it will be available in next update of my mod.
+
+Contribute:
+Do you have good coding skills in Java? or even better in Json? If yes, what are you waiting for.
+Requirements:
+Good knowledge of Java and git.
+Github account
+Discord account
+Legal Copy of minecraft
