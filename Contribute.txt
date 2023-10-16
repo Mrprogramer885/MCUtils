@@ -3,3 +3,5 @@ If you have a suggestion for the mod (new item, function, biome, sound, armor, t
 If you have decent coding skills (Java, Json, Markdown), you can also contribute directly to source code of the mod.
 
 contribute:
+go to "issues" TAB
+click "New issue"
