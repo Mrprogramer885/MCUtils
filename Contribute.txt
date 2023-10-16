@@ -15,8 +15,16 @@ Congrats, you have now suggested me new thing. if the suggestion gets accepted, 
 
 Contribute:
 Do you have good coding skills in Java? or even better in Json? If yes, what are you waiting for.
-Requirements:
+------------Requirements (Mandatory):------------
 Good knowledge of Java and git.
 Github account
 Discord account
-Legal Copy of minecraft
+Legal Copy of minecraft (NO CRACKED LAUNCHERS)
+------------Requirements (Optional) but better if completed:-------------
+Knowledge of json, Markdown and Patchouli.
+account on Modrinth + Modrinth launcher
+
+What in return:
+Credits in my mod
+
+
