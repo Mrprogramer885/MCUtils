@@ -13,7 +13,7 @@ It would be best to write the following:
 
 Congrats, you have now suggested me new thing. if the suggestion gets accepted, it will be available in next update of my mod.
 
-Contribute:
+Contribute: (Not accepting now)
 Do you have good coding skills in Java? or even better in Json? If yes, what are you waiting for.
 ------------Requirements (Mandatory):------------
 Good knowledge of Java and git.
@@ -26,5 +26,7 @@ account on Modrinth + Modrinth launcher
 
 What in return:
 Credits in my mod
+Minimal reward cut from mod 5% per contributor (this can change to higher cut depending on your number of contributions and the size of these contributions).
+
 
 
