@@ -21,6 +21,11 @@ Bunker blocks with creeper, tnt and wither protection tiers.
 over 3 types of armor, tools, and
 
 
-
+3eye and performance
 This mod is very lightweight, making it good choice for players with low pc specs.
+Our rendering engine uses technology caled 3eye which renders the texture by 4x4 then 8x8 and then 16x16, this all 
+happens in 50-100 miliseconds so you wont even see the difference.
+Minecraft renders every texture immediately by 16x16 in miliseconds, this can increase the gpu demand but also leads to lover rendering time
+3eye renders 4x4, then 8x8 and 16x16 so the gpu is being used at lower demand but it takes 50-100 miliseconds to render all textures (you wont see the difference ofc)
+3eye config can be found in the instance config folder. 
 
