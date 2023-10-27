@@ -16,16 +16,19 @@ and LOT more...
 If yes, what are you waiting for. Go download it now.
 
 What the mod contains for now:
-complex medication system 3x times better than po
+complex medication system 3x times better than potion system.
+over 20 achievments
 Bunker blocks with creeper, tnt and wither protection tiers.
-over 3 types of armor, tools, and
+over 4 types of armor, tools, and weapons
+enhnances the game by playing random sound (animal, ambient, player, world) when you play the game 
+
 
 
 3eye and performance
 This mod is very lightweight, making it good choice for players with low pc specs.
-Our rendering engine uses technology caled 3eye which renders the texture by 4x4 then 8x8 and then 16x16, this all 
-happens in 50-100 miliseconds so you wont even see the difference.
-Minecraft renders every texture immediately by 16x16 in miliseconds, this can increase the gpu demand but also leads to lover rendering time
-3eye renders 4x4, then 8x8 and 16x16 so the gpu is being used at lower demand but it takes 50-100 miliseconds to render all textures (you wont see the difference ofc)
-3eye config can be found in the instance config folder. 
+Our rendering engine uses technology caled 3eye which renders items, 3D objects, items and textures (only from the mod) using completely differently alghorhitms than minecraft uses so performance is better.
+This mod also has "Performance mode", which you can use when the game is extremely laggy, what it does is the mod render every item slower thus reducing GPU demand and kills some of the mod functions thus reducing CPU demand.
+(Be aware that this setting will disable some of the mod functions so use ONLY if the game really lags)
+
+
 
